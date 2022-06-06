@@ -80,5 +80,5 @@
     <string name="cant_find_angle_pkg">ANGLE is not available on your system</string>
     <string name="per_app_unregister">Remove %1$s from library</string>
 
-    <string name="date_format" translatable="false">dd.MM.yyyy</string>
+    <string name="date_format" translatable="false">EEEE, MMM d</string>
 </resources>
